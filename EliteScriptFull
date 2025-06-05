@@ -1,5 +1,4 @@
 -- everythih else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Elite218/Elite-script/refs/heads/main/fullscript.lua"))()
 
--- menu
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Elite218/Elite-script/refs/heads/main/ElitescriptMenu.lua"))()
