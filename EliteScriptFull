@@ -2,5 +2,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Elite218/Elite-script/refs/heads/main/fullscript.lua"))()
 
 -- menu
-task.wait(1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Elite218/Elite-script/refs/heads/main/ElitescriptMenu.lua"))()
